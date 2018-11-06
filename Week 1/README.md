@@ -34,3 +34,16 @@ You'll note that only three of the types realy seem like data types, `Boolean`, 
 `Symbol` is a new primitive type, that we won't be using in this series.
 
 There is also another type, that being an `Object`. Which many of the other JavaScript data types are made of. We'll go into more detail on objects in Week 3.
+
+## Variables
+Variables are the core of JavaScript. Everything is a variable, i.e. everything is callable.
+
+Creating a variable is very simple, you just intialize it with the keyword `var`, `let`, or `const`.
+
+`var` and `let` are functionally identical. The only difference is that `var` creates a variable in global scope, whereas, `let` is local or block scope. 
+
+`const` is also restricted to local scope, but it's values cannot be modified*
+
+###### * sort of
+
+## 
