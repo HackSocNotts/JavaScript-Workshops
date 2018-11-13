@@ -268,5 +268,3 @@ const myFunction = (myVar) => {
 const myResult = myFunction(3);
 // myResult = 4
 ```
-
-
